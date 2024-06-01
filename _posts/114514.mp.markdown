@@ -1,0 +1,32 @@
+---
+layout:       post
+title:        "我的下载站"
+author:       "Hux"
+header-style: text
+catalog:      true
+tags:
+    - Web
+    - JavaScript
+---
+
+> SYSTEM-WINXP-ZDY的下载站
+
+SYSTEM-WINXP-ZDY的下载站
+
+#SYSTEM-WINXP-ZDY的下载站
+__欢迎来到SYSTEM-WINXP-ZDY的资源下载站__
+_视频中的大部分资源都在这里！(病毒下载密码均为: lzk)_
+_只有有资源的视频这里才有_
+_粉丝群:62665034_
+作者主页[点我进去][1]。
+[1]:https://space.bilibili.com/3493295577631498
+
+视频：运行自制病毒“一个不腼腆的病毒[视频][1]、[病毒下载链接][2]。
+[1]:https://space.bilibili.com/3493295577631498
+
+作者主页[点我进去][1]。
+[1]:https://space.bilibili.com/3493295577631498
+
+作者主页[点我进去][1]。
+[1]:https://space.bilibili.com/3493295577631498
+
