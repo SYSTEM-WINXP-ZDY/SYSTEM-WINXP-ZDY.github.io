@@ -1,9 +1,9 @@
 # Site settings
-title: SYSTEM-WINXP-ZDY的下载站
-SEOTitle: SYSTEM-WINXP-ZDY的下载站
+title: SYSTEM-WINXP-ZDY的博客
+SEOTitle: SYSTEM-WINXP-ZDY的博客
 header-img: img/img9.jpg
 email: Liangzhukun2024@outlook.com
-description: "这里是SYSTEM-WINXP-ZDY的下载站，与你一起发现更大的世界"
+description: "这里是SYSTEM-WINXP-ZDY的博客，与你一起发现更大的世界"
 keyword: "666"
 url: "https://space.bilibili.com/3493295577631498" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
